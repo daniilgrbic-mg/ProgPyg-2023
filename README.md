@@ -18,8 +18,8 @@ Tempo cemo prilagoditi nasim potrebama, nista iz gore navedenog nije zakon, samo
 - [x] Uvod u 2D grafiku, FPS, pikseli, [RGB boje](https://petlja.org/kurs/352/3/6074)
 - [x] Koriscenje biblioteke Pygame, `wait_loop`, [skelet za kodove](kodovi/skelet_uvod.py)
 - [ ] [Crtanje osnovnih oblika: boje, koordinate, duzi, pravougaonici, krugovi](tekstovi/pygame_uvod.md)
-- [ ] *Liste i torke u Python-u*
-- [ ] Crtanje osnovnih oblika: izlomljene linije, mnogouglovi
+- [ ] [*Liste i torke u Python-u*](kodovi/lista.py)
+- [ ] Crtanje osnovnih oblika: izlomljene linije, [mnogouglovi](kodovi/trougao.py)
 - [ ] *Logika u Python-u: `if...else` naredba, bool vrednosti*
 - [ ] *Petlje u Python-u: `for` i `while`*
 - [ ] Crtanje pravilnih oblika uz pomoc petlji
