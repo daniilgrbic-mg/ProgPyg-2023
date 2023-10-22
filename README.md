@@ -12,10 +12,11 @@ Termini nastave u prvom semestru:
 ```
 
 ### Zadaci sa casa
-- [x] [8. Oktobar - crtanje raznih slika](zadaci/8_okt.md)
+- [ ] [22. Oktobar - `if..else`, petlje](zadaci/03_14_okt.md)
+- [x] [8. Oktobar - crtanje raznih slika](zadaci/02_08_okt.md)
 
 ### Domaci zadaci
-- [x] [1. Oktobar - Cica Glisa](domaci/1_okt.md)
+- [x] [1. Oktobar - Cica Glisa](domaci/01_01_okt.md)
 
 ### Plan rada
 Tempo cemo prilagoditi nasim potrebama, nista iz gore navedenog nije zakon, samo okviran plan.
@@ -26,8 +27,8 @@ Tempo cemo prilagoditi nasim potrebama, nista iz gore navedenog nije zakon, samo
 - [x] [Crtanje osnovnih oblika: boje, koordinate, duzi, pravougaonici, krugovi](tekstovi/pygame_uvod.md)
 - [x] [*Liste i torke u Python-u*](kodovi/lista.py)
 - [x] Crtanje osnovnih oblika: [mnogouglovi](kodovi/trougao.py)
-- [ ] *Logika u Python-u: `if...else` naredba, bool vrednosti*
-- [ ] *Petlje u Python-u: `for` i `while`*
+- [x] *Logika u Python-u: `if...else` naredba, bool vrednosti*
+- [x] [*Petlje u Python-u: `for` i `while`*](kodovi/petlje.py)
 - [ ] Crtanje pravilnih oblika uz pomoc petlji
 - [ ] Vektori u 2D, sabiranje i oduzmianje vektora, rotacija
 - [ ] *Pisanje funkcija u Python-u, globalne i lokalne promenljive*
