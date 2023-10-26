@@ -12,10 +12,11 @@ Termini nastave u prvom semestru:
 ```
 
 ### Zadaci sa casa
-- [ ] [22. Oktobar - `if..else`, petlje](zadaci/03_14_okt.md)
+- [x] [22. Oktobar - `if..else`, petlje](zadaci/03_14_okt.md)
 - [x] [8. Oktobar - crtanje raznih slika](zadaci/02_08_okt.md)
 
 ### Domaci zadaci
+Najpre naravno treba zavrsiti ono sto je poceto na casu!
 - [x] [1. Oktobar - Cica Glisa](domaci/01_01_okt.md)
 
 ### Plan rada
