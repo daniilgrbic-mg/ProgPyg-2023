@@ -12,7 +12,8 @@ Termini nastave u prvom semestru:
 ```
 
 ### Zadaci sa casa
-- [x] [22. Oktobar - `if..else`, petlje](zadaci/03_14_okt.md)
+- [ ] [29. Oktobar - vezbanje, udnjezdene petlje](zadaci/04_29_okt.md)
+- [x] [22. Oktobar - `if..else`, petlje](zadaci/03_22_okt.md)
 - [x] [8. Oktobar - crtanje raznih slika](zadaci/02_08_okt.md)
 
 ### Domaci zadaci
@@ -30,11 +31,14 @@ Tempo cemo prilagoditi nasim potrebama, nista iz gore navedenog nije zakon, samo
 - [x] Crtanje osnovnih oblika: [mnogouglovi](kodovi/trougao.py)
 - [x] *Logika u Python-u: `if...else` naredba, bool vrednosti*
 - [x] [*Petlje u Python-u: `for` i `while`*](kodovi/petlje.py)
-- [ ] Crtanje pravilnih oblika uz pomoc petlji
-- [ ] Vektori u 2D, sabiranje i oduzmianje vektora, rotacija
+- [x] Crtanje pravilnih oblika uz pomoc petlji
+- [ ] Ugnjezdene petlje (petlje u vise nivoa)
+- [ ] Napredniji `import`; biblioteka `random`
 - [ ] *Pisanje funkcija u Python-u, globalne i lokalne promenljive*
 - [ ] Animacije, simulacije kretanja, `frame_loop`
 - [ ] Ucitavanje i prikazivanje slika, transformacije slika, alat LibreSprite
+- [ ] Vektori u 2D, sabiranje i oduzmianje vektora, rotacija
+- [ ] Fizicke simulacije: ubrzano kretanje, kosi hitac
 - [ ] Programiranje rekacije programa na koriscenje misa i tastature 
 - [ ] *Recnici (mape) u Python-u, kljucevi, pristup po kljucu*
 - [ ] Dogadjaji, `event_loop`
