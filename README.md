@@ -33,7 +33,7 @@ Tempo cemo prilagoditi nasim potrebama, nista iz gore navedenog nije zakon, samo
 - [x] [*Petlje u Python-u: `for` i `while`*](kodovi/petlje.py)
 - [x] Crtanje pravilnih oblika uz pomoc petlji
 - [ ] Ugnjezdene petlje (petlje u vise nivoa)
-- [ ] Napredniji `import`; biblioteka `random`
+- [ ] [Napredniji `import`; biblioteka `random`](tekstovi/importovi.md)
 - [ ] *Pisanje funkcija u Python-u, globalne i lokalne promenljive*
 - [ ] Animacije, simulacije kretanja, `frame_loop`
 - [ ] Ucitavanje i prikazivanje slika, transformacije slika, alat LibreSprite
