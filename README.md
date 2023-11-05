@@ -12,13 +12,15 @@ Termini nastave u prvom semestru:
 ```
 
 ## Materijali 
-- [ ] 5. Novembar - **pisanje funkcija** u Python-u, animacije, **simulacija kretanja**
+<!-- - [ ] 19. Novembar - animacije, vezbanje -->
+- [x] 5. Novembar - **pisanje funkcija** u Python-u, animacije, **simulacija kretanja**
   - Funkcije u matematici i programiranju, primeri
-    - Funkcija: zbir dva broja
-    - Globalni i lokalni opseg promeljivih
-    - [Funkcija: crtanje jelke i sume jelki](materijali/kodovi/suma.py)
+    - [Primeri funkcija: apsolutna vrednost, povrsina pravougaonika, maksimum dva broja](materijali/kodovi/funkcije_primeri.py)
+    - [Globalni i lokalni opseg promeljivih, komanda `global`](materijali/kodovi/global_primer.py)
+    - [Funkcija za crtanje jelke i sume jelki](materijali/kodovi/suma.py)
   - [Struktura Pygame koda za dinamicke programe](materijali/kodovi/skelet_frame.py)
     - [Primer: animacija planete](materijali/kodovi/planeta.py)
+  - [Zadaci](materijali/zadaci/05_05_nov.md)
 - [x] 29. Oktobar - ugdjezdene petlje, *vezbanje*
   - [Zadaci sa resenjima](materijali/zadaci/04_29_okt.md)
 - [x] 22. Oktobar - **grananje** (`if..else`), **petlje** (`for`, `while`)
