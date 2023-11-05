@@ -11,29 +11,42 @@ Termini nastave u prvom semestru:
     3, 10, 17, 24. Decembar
 ```
 
-### Zadaci sa casa
-- [ ] [29. Oktobar - vezbanje, udnjezdene petlje](zadaci/04_29_okt.md)
-- [x] [22. Oktobar - `if..else`, petlje](zadaci/03_22_okt.md)
-- [x] [8. Oktobar - crtanje raznih slika](zadaci/02_08_okt.md)
+## Materijali 
+- [ ] 5. Novembar - **pisanje funkcija** u Python-u, animacije, **simulacija kretanja**
+  - Funkcije u matematici i programiranju, primeri
+    - Funkcija: zbir dva broja
+    - Globalni i lokalni opseg promeljivih
+    - Funkcija: crtanje automobila
+  - [Struktura Pygame koda za dinamicke programe](materijali/kodovi/skelet_frame.py)
+    - Primer: animacija promene boje
+    - Primer: animacija kretanja automobila
+- [x] 29. Oktobar - ugdjezdene petlje, *vezbanje*
+  - [Zadaci](materijali/zadaci/04_29_okt.md)
+- [x] 22. Oktobar - **grananje** (`if..else`), **petlje** (`for`, `while`)
+  - [Zadaci sa resenjima](materijali/zadaci/03_22_okt.md)
+- [x] 8. Oktobar - crtanje kompleksnijih oblika, *vezbanje*
+  - [Zadaci sa resenjima](materijali/zadaci/02_08_okt.md)
+- [x] 1. Oktobar - uvodni cas, koordinatni sistem u racunarstvu, crtanje osnovnih oblika
+  - [Razvojno okruzenje Thonny](materijali/tekstovi/thonny.md)
+  - [RGB sistem boja (Petlja)](https://petlja.org/kurs/352/3/6074)
+  - [Uvod u Pygame](materijali/tekstovi/pygame_uvod.md)
+  - [Struktura Pygame programa](materijali/kodovi/skelet_uvod.py)
+  - [Domaci zadatak: cica glisa](materijali/domaci/01_01_okt.md)
 
-### Domaci zadaci
-Najpre naravno treba zavrsiti ono sto je poceto na casu!
-- [x] [1. Oktobar - Cica Glisa](domaci/01_01_okt.md)
-
-### Plan rada
+<!-- ## Plan rada
 Tempo cemo prilagoditi nasim potrebama, nista iz gore navedenog nije zakon, samo okviran plan.
-- [x] [Instalacija okruzenja Thonny i potrebnih biblioteka](tekstovi/thonny.md)
+- [x] [Instalacija okruzenja Thonny i potrebnih biblioteka](materijali/tekstovi/thonny.md)
 - [x] *Uvod u Python, promenljive, osnovni tipovi*
 - [x] Uvod u 2D grafiku, FPS, pikseli, [RGB boje](https://petlja.org/kurs/352/3/6074)
-- [x] Koriscenje biblioteke Pygame, `wait_loop`, [skelet za kodove](kodovi/skelet_uvod.py)
-- [x] [Crtanje osnovnih oblika: boje, koordinate, duzi, pravougaonici, krugovi](tekstovi/pygame_uvod.md)
-- [x] [*Liste i torke u Python-u*](kodovi/lista.py)
-- [x] Crtanje osnovnih oblika: [mnogouglovi](kodovi/trougao.py)
+- [x] Koriscenje biblioteke Pygame, `wait_loop`, [skelet za kodove](materijali/kodovi/skelet_uvod.py)
+- [x] [Crtanje osnovnih oblika: boje, koordinate, duzi, pravougaonici, krugovi](materijali/tekstovi/pygame_uvod.md)
+- [x] [*Liste i torke u Python-u*](materijali/kodovi/lista.py)
+- [x] Crtanje osnovnih oblika: [mnogouglovi](materijali/kodovi/trougao.py)
 - [x] *Logika u Python-u: `if...else` naredba, bool vrednosti*
-- [x] [*Petlje u Python-u: `for` i `while`*](kodovi/petlje.py)
+- [x] [*Petlje u Python-u: `for` i `while`*](materijali/kodovi/petlje.py)
 - [x] Crtanje pravilnih oblika uz pomoc petlji
 - [ ] Ugnjezdene petlje (petlje u vise nivoa)
-- [ ] [Napredniji `import`; biblioteka `random`](tekstovi/importovi.md)
+- [ ] [Napredniji `import`; biblioteka `random`](materijali/tekstovi/importovi.md)
 - [ ] *Pisanje funkcija u Python-u, globalne i lokalne promenljive*
 - [ ] Animacije, simulacije kretanja, `frame_loop`
 - [ ] Ucitavanje i prikazivanje slika, transformacije slika, alat LibreSprite
@@ -45,4 +58,4 @@ Tempo cemo prilagoditi nasim potrebama, nista iz gore navedenog nije zakon, samo
 - [ ] Kolizije, hitbox, malo geometrije
 - [ ] Prikazivanje teksta, fontovi, aliasing
 - [ ] ...
-- [ ] Veliki projekat na kraju kursa
+- [ ] Veliki projekat na kraju kursa -->
