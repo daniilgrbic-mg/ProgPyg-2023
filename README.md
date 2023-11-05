@@ -21,7 +21,7 @@ Termini nastave u prvom semestru:
     - Primer: animacija promene boje
     - Primer: animacija kretanja automobila
 - [x] 29. Oktobar - ugdjezdene petlje, *vezbanje*
-  - [Zadaci](materijali/zadaci/04_29_okt.md)
+  - [Zadaci sa resenjima](materijali/zadaci/04_29_okt.md)
 - [x] 22. Oktobar - **grananje** (`if..else`), **petlje** (`for`, `while`)
   - [Zadaci sa resenjima](materijali/zadaci/03_22_okt.md)
 - [x] 8. Oktobar - crtanje kompleksnijih oblika, *vezbanje*
