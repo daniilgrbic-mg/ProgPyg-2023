@@ -16,10 +16,9 @@ Termini nastave u prvom semestru:
   - Funkcije u matematici i programiranju, primeri
     - Funkcija: zbir dva broja
     - Globalni i lokalni opseg promeljivih
-    - Funkcija: crtanje automobila
+    - [Funkcija: crtanje jelke i sume jelki](materijali/kodovi/suma.py)
   - [Struktura Pygame koda za dinamicke programe](materijali/kodovi/skelet_frame.py)
-    - Primer: animacija promene boje
-    - Primer: animacija kretanja automobila
+    - [Primer: animacija planete](materijali/kodovi/planeta.py)
 - [x] 29. Oktobar - ugdjezdene petlje, *vezbanje*
   - [Zadaci sa resenjima](materijali/zadaci/04_29_okt.md)
 - [x] 22. Oktobar - **grananje** (`if..else`), **petlje** (`for`, `while`)
