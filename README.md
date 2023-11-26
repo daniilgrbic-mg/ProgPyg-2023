@@ -13,6 +13,9 @@ Termini nastave u prvom semestru:
 
 ## Materijali 
 - [ ] 26. Novembar - ucitavanje i prikazivanje slika (sprite-ova)
+  - [Iscrtavanje spriteova](materijali/kodovi/sprite.py)
+  - [Slike samuraj](materijali/kodovi/Samurai/)
+  - [LibreSprite](https://libresprite.github.io/)
 - [x] 19. Novembar - uvod u animacije, kretanje - vezbanje
   - [Zadaci sa resenjima](materijali/zadaci/05_05_nov.md)
 - [x] 5. Novembar - **pisanje funkcija** u Python-u, uvod u animacije, **simulacija kretanja**
