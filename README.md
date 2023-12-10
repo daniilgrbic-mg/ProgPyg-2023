@@ -12,7 +12,12 @@ Termini nastave u prvom semestru:
 ```
 
 ## Materijali 
-- [ ] 3. Decembar i 26. Novembar - ucitavanje i prikazivanje slika (sprite-ova)
+- [ ] 10. Decembar - rad sa tastaturom
+  - [Upravljanje loptom na ekranu](materijali/kodovi/tastatura.py)
+  - [Spisak kodova za tastere](https://www.pygame.org/docs/ref/key.html)
+  - [Dohvatanje poziicje misa](materijali/kodovi/mis.py)
+- [x] 3. Decembar - nastavak proslog casa
+- [x] 26. Novembar - ucitavanje i prikazivanje slika (sprite-ova)
   - [Iscrtavanje spriteova (tezi nacin)](materijali/kodovi/sprite.py)
   - [Iscrtavanje spriteova (laksi nacin, sa listom)](materijali/kodovi/sprite2.py)
   - [Slike samuraj](materijali/kodovi/Samurai/), [slike shinobi](materijali/kodovi/Shinobi/)
