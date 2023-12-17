@@ -12,6 +12,8 @@ Termini nastave u prvom semestru:
 ```
 
 ## Materijali 
+- [ ] 17. Decembar - kolizije
+  - [Bojimo prvougaonik kad ga sece mis](materijali/kodovi/kolizije.py)
 - [ ] 10. Decembar - rad sa tastaturom
   - [Upravljanje loptom na ekranu](materijali/kodovi/tastatura.py)
   - [Spisak kodova za tastere](https://www.pygame.org/docs/ref/key.html)
