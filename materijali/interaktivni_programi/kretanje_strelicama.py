@@ -2,7 +2,6 @@ import pygame as pg
 import pygamebg
 
 w, h = 500, 500
-
 surface = pygamebg.open_window(w, h, "Read keyboard state")
 
 x, y = w//2, h//2

@@ -1,16 +1,49 @@
 # ProgPyg-2023
 
+```python
+Nastava se odvija nedeljom u 9 casova, u ucionici 311 (gornji sprat)
 ```
-Nastava se odvija nedeljom u 9h, u ucionici 311
+```python
+Termini nastave u drugom semestru:
+    28. Januar
+    4, 11, 25. Februar
+    3, 10, 17, 24. Mart
+    7. April
 ```
 
-```
-Termini nastave u prvom semestru:
-     1, 8, 22, 29. Oktobar
-        5, 19, 26. Novembar
-    3, 10, 17, 24. Decembar
-```
+## Materijali
 
+### Kolizije - preseci tacaka i pravougaonika, ili vise pravougaonika
+- [Detekcija preklapanja **tacke i pravougaonika**, funkcija `collidepoint`](/materijali/kolizije/rect_i_tacka.py)
+- [Detekcija preseka **dva pravougaonika**](/materijali/kolizije/dva_pravougaonika.py)
+
+### Korisnicka interakcija - dohvatanje stanja tastature i misa
+- [Dohvatanje stanja tastature - promena pozicije lopte na strelice](/materijali/interaktivni_programi/kretanje_strelicama.py)
+- [Powering up bar](/materijali/interaktivni_programi/powering_up.py) (radi na dugme *space*, [ovako nesto ali bez novcica](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.hongkiat.com%2Fuploads%2Fanimated-progress-bar%2F13.gif%3Fnewedit%3Fnewedit&f=1&nofb=1&ipt=6b247fbe5d9e9f09b3ae6c041bc48b6f2d5ad3eae5992a17676dbfa09afa520a&ipo=images))
+- [Kretanje u svemiru](/materijali/interaktivni_programi/kretanje_u_svemiru.py) (u ovoj varijanti na strelice menjamo brzinu tela, a ne poziciju)
+- [Dohvatanje pozicije misa](/materijali/interaktivni_programi/pozicija_misa.py)
+
+### Ucitavanje slika i animacije promenom slika
+- Funkcije `pg.image.load` i `blit`
+- Primer: [Samuraj u napadu](/materijali/ucitavanje_slika/samurai_napada.py)
+
+### Animacije - kretanje objekata i promene slika, ali bez korisnicke interakcije
+- Funkcija `update`, [novi skelet programa](/materijali/animacije/skelet_frame.py)
+- Obicno kretanje i odbijanje od zidova
+  - [Odbijanje lopte (levo-desno)](/materijali/animacije/odbijanje_lopte_levo_desno.py)
+  - [Odbijanje lopte (4 zida)](/materijali/animacije/odbijanje_lopte_4_zida.py)
+- Vektori: sabiranje i rotacija
+  - [Suncev sistem: kretanje planete oko Sunca](/materijali/animacije/planeta.py)
+
+### Osnove iscrtavanja
+- Tekst: [uvod u Pygame](/materijali/osnovno_iscrtavanje/pygame_uvod.md)
+- [RGB sistem boja (Petlja)](https://petlja.org/kurs/352/3/6074)
+- [Osnovni "skelet" programa - deo programa koji je uvek isti](/materijali/osnovno_iscrtavanje/skelet_uvod.py)
+- Primeri: 
+  - [Crtanje trougla](/materijali/osnovno_iscrtavanje/trougao.py)
+  - [Crtanje sume (vise jelki na raznim pozicijama)](/materijali/osnovno_iscrtavanje/suma.py)
+
+<!--
 ## Materijali 
 - [ ] 17. Decembar - kolizije
   - [Bojimo prvougaonik kad ga sece mis](materijali/kodovi/kolizije.py)
@@ -45,6 +78,7 @@ Termini nastave u prvom semestru:
   - [Uvod u Pygame](materijali/tekstovi/pygame_uvod.md)
   - [Struktura Pygame programa](materijali/kodovi/skelet_uvod.py)
   - [Domaci zadatak: cica glisa](materijali/domaci/01_01_okt.md)
+-->
 
 <!-- ## Plan rada
 Tempo cemo prilagoditi nasim potrebama, nista iz gore navedenog nije zakon, samo okviran plan.

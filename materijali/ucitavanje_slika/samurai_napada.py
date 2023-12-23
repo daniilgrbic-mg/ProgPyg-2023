@@ -3,8 +3,17 @@ import pygame as pg
 from pygame import Color, Surface
 
 prozor = pg.display.set_mode((1000, 750), pg.RESIZABLE)
+pg.display.set_caption('Samuraj napada')
 
-samurai = pg.image.load('Samurai/Attack_1.png')
+samurai = pg.image.load('Attack_1.png')
+samurai = [
+    samurai.subsurface(0, 0, 128, 128),   # 0
+    samurai.subsurface(128, 0, 128, 128), # 1
+    samurai.subsurface(256, 0, 128, 128), # 2
+    samurai.subsurface(384, 0, 128, 128), # 3
+    samurai.subsurface(512, 0, 128, 128), # 4
+    samurai.subsurface(640, 0, 128, 128)  # 5
+]
 
 platno = Surface((200, 150))
 
@@ -15,7 +24,7 @@ def update_frame():
     global prozor
 
     platno.fill(Color('white'))
-    platno.blit(samurai, (0,0), (128*trenutna_slika,0,128,128))
+    platno.blit(samurai[trenutna_slika], (0,0))
     
     trenutna_slika += 1
     if trenutna_slika == 6:
