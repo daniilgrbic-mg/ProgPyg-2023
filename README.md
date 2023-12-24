@@ -13,6 +13,12 @@ Termini nastave u drugom semestru:
 
 ## Materijali
 
+> [Petlja zbirka iz Pygame](https://petlja.org/biblioteka/r/lekcije/pygame-prirucnik/crtanje-toctree)
+
+### Kretanje vise objekata, razlike vektora, funkcije `normalize` i `length`
+- [Jedan protivnik juri igraca](/materijali/vise_objekata/jurenje.py)
+- [Vise protivnika jure igraca](/materijali/vise_objekata/jurenje_vise.py)
+
 ### Kolizije - preseci tacaka i pravougaonika, ili vise pravougaonika
 - [Detekcija preklapanja **tacke i pravougaonika**, funkcija `collidepoint`](/materijali/kolizije/rect_i_tacka.py)
 - [Detekcija preseka **dva pravougaonika**](/materijali/kolizije/dva_pravougaonika.py)
