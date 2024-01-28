@@ -13,7 +13,8 @@ Termini nastave u drugom semestru:
 
 ## Materijali
 
-> [Petlja zbirka iz Pygame](https://petlja.org/biblioteka/r/lekcije/pygame-prirucnik/crtanje-toctree)
+> Prvi cas posle raspusta - obnavljanje:  
+> [Petlja zbirka iz Pygame](https://petlja.org/biblioteka/r/lekcije/pygame-prirucnik/crtanje-cas1)
 
 ### Kretanje vise objekata, razlike vektora, funkcije `normalize` i `length`
 - [Jedan protivnik juri igraca](/materijali/vise_objekata/jurenje.py)
