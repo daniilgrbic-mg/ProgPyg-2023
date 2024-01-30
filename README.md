@@ -6,9 +6,9 @@ Nastava se odvija nedeljom u 9 casova, u ucionici 311 (gornji sprat)
 ```python
 Termini nastave u drugom semestru:
     28. Januar
-    4, 11, 25. Februar
-    3, 10, 17, 24. Mart
-    7. April
+    11, 25. Februar
+    3, 10, 17, 31. Mart
+    7, 14. April
 ```
 
 ## Materijali
