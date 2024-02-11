@@ -13,8 +13,14 @@ Termini nastave u drugom semestru:
 
 ## Materijali
 
-> Prvi cas posle raspusta - obnavljanje:  
-> [Petlja zbirka iz Pygame](https://petlja.org/biblioteka/r/lekcije/pygame-prirucnik/crtanje-cas1)
+<!-- > Prvi cas posle raspusta - obnavljanje:  
+> [Petlja zbirka iz Pygame](https://petlja.org/biblioteka/r/lekcije/pygame-prirucnik/crtanje-cas1) -->
+
+### Dogadjaji - `event_loop`
+- [Semafor pisan an casu](/materijali/dogadjaji/primer.py)
+- [Semafor - lepsa verzija](/materijali/dogadjaji/semafor.py)
+- [Matrice u Python-u](/materijali/dogadjaji/matrice.py)
+- [Lavirint bez grafike, samo konzolni ispis](/materijali/dogadjaji/lavirint.py)
 
 ### Kretanje vise objekata, razlike vektora, funkcije `normalize` i `length`
 - [Jedan protivnik juri igraca](/materijali/vise_objekata/jurenje.py)
