@@ -11,7 +11,11 @@ def draw():
 
 def click(event):
     global boja
+    
     print("Klik misa na poziciji", event.pos)
+    print("Levo dugme:", bool(event.button == pg.BUTTON_LEFT))
+    print("Desno dugme:", bool(event.button == pg.BUTTON_RIGHT))
+
     if boja == "red":
         boja = "green"
     else:
