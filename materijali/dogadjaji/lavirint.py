@@ -3,6 +3,7 @@ import pygamebg
 
 w, h = 100, 100
 window = pygamebg.open_window(w, h, "Read keyboard state")
+pg.event.set_grab(True)
 
 lavirint = [
     list("1111111"),
