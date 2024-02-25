@@ -13,6 +13,9 @@ Termini nastave u drugom semestru:
 
 ## Materijali
 
+### Grupni projekat - zmijurina
+- [Snake](/materijali/pravi_projekti/snake.py)
+
 <!-- > Prvi cas posle raspusta - obnavljanje:  
 > [Petlja zbirka iz Pygame](https://petlja.org/biblioteka/r/lekcije/pygame-prirucnik/crtanje-cas1) -->
 
