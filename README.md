@@ -1,7 +1,7 @@
 # ProgPyg-2023
 
 ```python
-Nastava se odvija nedeljom u 9 casova, u ucionici 311 (gornji sprat)
+Nastava se odvija nedeljom u 9 časova, u učionici 311 (gornji sprat)
 ```
 ```python
 Termini nastave u drugom semestru:
@@ -13,39 +13,40 @@ Termini nastave u drugom semestru:
 
 ## Materijali
 
-### Grupni projekat - zmijurina
-- [Snake](/materijali/pravi_projekti/snake.py)
+### Grupni projekat - pong 🏓
+- [Šta je? (Wiki)](https://en.wikipedia.org/wiki/Pong)
+- [Pong (kod)](/materijali/pravi_projekti/pong.py)
 
-<!-- > Prvi cas posle raspusta - obnavljanje:  
-> [Petlja zbirka iz Pygame](https://petlja.org/biblioteka/r/lekcije/pygame-prirucnik/crtanje-cas1) -->
+### Grupni projekat - zmijurina 🐍
+- [Šta je? (Wiki)](https://en.wikipedia.org/wiki/Snake_(video_game))
+- [Snake game (kod)](/materijali/pravi_projekti/snake.py)
 
-### Dogadjaji - `event_loop`
-- [Semafor pisan an casu](/materijali/dogadjaji/primer.py)
-- [Semafor - lepsa verzija](/materijali/dogadjaji/semafor.py)
+### Događaji - `event_loop`
+- [Semafor pisan an času](/materijali/dogadjaji/primer.py)
+- [Semafor - lepša verzija](/materijali/dogadjaji/semafor.py)
 - [Matrice u Python-u](/materijali/dogadjaji/matrice.py)
 - [Lavirint bez grafike, samo konzolni ispis](/materijali/dogadjaji/lavirint.py)
 
-### Kretanje vise objekata, razlike vektora, funkcije `normalize` i `length`
-- [Jedan protivnik juri igraca](/materijali/vise_objekata/jurenje.py)
-- [Vise protivnika jure igraca](/materijali/vise_objekata/jurenje_vise.py)
+### Kretanje više objekata, razlike vektora, funkcije `normalize` i `length`
+- [Jedan protivnik juri igrača](/materijali/vise_objekata/jurenje.py)
+- [Više protivnika jure igrača](/materijali/vise_objekata/jurenje_vise.py)
 
-### Kolizije - preseci tacaka i pravougaonika, ili vise pravougaonika
-- [Detekcija preklapanja **tacke i pravougaonika**, funkcija `collidepoint`](/materijali/kolizije/rect_i_tacka.py)
+### Kolizije - preseci tačaka i pravougaonika, ili više pravougaonika
+- [Detekcija preklapanja **tačke i pravougaonika**, funkcija `collidepoint`](/materijali/kolizije/rect_i_tacka.py)
 - [Detekcija preseka **dva pravougaonika**](/materijali/kolizije/dva_pravougaonika.py)
 
-### Korisnicka interakcija - dohvatanje stanja tastature i misa
+### Korisnička interakcija - dohvatanje stanja tastature i miša
 - [Dohvatanje stanja tastature - promena pozicije lopte na strelice](/materijali/interaktivni_programi/kretanje_strelicama.py)
-- [Powering up bar](/materijali/interaktivni_programi/powering_up.py) (radi na dugme *space*, [ovako nesto ali bez novcica](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.hongkiat.com%2Fuploads%2Fanimated-progress-bar%2F13.gif%3Fnewedit%3Fnewedit&f=1&nofb=1&ipt=6b247fbe5d9e9f09b3ae6c041bc48b6f2d5ad3eae5992a17676dbfa09afa520a&ipo=images))
 - [Kretanje u svemiru](/materijali/interaktivni_programi/kretanje_u_svemiru.py) (u ovoj varijanti na strelice menjamo brzinu tela, a ne poziciju)
-- [Dohvatanje pozicije misa](/materijali/interaktivni_programi/pozicija_misa.py)
+- [Dohvatanje pozicije miša](/materijali/interaktivni_programi/pozicija_misa.py)
 
-### Ucitavanje slika i animacije promenom slika
+### Učitavanje slika i animacije promenom slika
 - Funkcije `pg.image.load` i `blit`
 - Primer: [Samuraj u napadu](/materijali/ucitavanje_slika/samurai_napada.py)
 
-### Animacije - kretanje objekata i promene slika, ali bez korisnicke interakcije
+### Animacije - kretanje objekata i promene slika, ali bez korisničke interakcije
 - Funkcija `update`, [novi skelet programa](/materijali/animacije/skelet_frame.py)
-- Obicno kretanje i odbijanje od zidova
+- Obično kretanje i odbijanje od zidova
   - [Odbijanje lopte (levo-desno)](/materijali/animacije/odbijanje_lopte_levo_desno.py)
   - [Odbijanje lopte (4 zida)](/materijali/animacije/odbijanje_lopte_4_zida.py)
 - Vektori: sabiranje i rotacija
@@ -57,7 +58,7 @@ Termini nastave u drugom semestru:
 - [Osnovni "skelet" programa - deo programa koji je uvek isti](/materijali/osnovno_iscrtavanje/skelet_uvod.py)
 - Primeri: 
   - [Crtanje trougla](/materijali/osnovno_iscrtavanje/trougao.py)
-  - [Crtanje sume (vise jelki na raznim pozicijama)](/materijali/osnovno_iscrtavanje/suma.py)
+  - [Crtanje šume (više jelki na raznim pozicijama)](/materijali/osnovno_iscrtavanje/suma.py)
 
 <!--
 ## Materijali 
