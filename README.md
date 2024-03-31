@@ -13,6 +13,9 @@ Termini nastave u drugom semestru:
 
 ## Materijali
 
+### Projekat - Fallpy eagle 🦅
+- Presek stanja 31. mart - [kod](/materijali/pravi_projekti/flappy.py)
+
 ### Grupni projekat - pong 🏓
 - [Šta je? (Wiki)](https://en.wikipedia.org/wiki/Pong)
 - [Pong (kod)](/materijali/pravi_projekti/pong.py)
