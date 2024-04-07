@@ -15,6 +15,9 @@ Termini nastave u drugom semestru:
 
 ### Projekat - Fallpy eagle 🦅
 - Presek stanja 31. mart - [kod](/materijali/pravi_projekti/flappy.py)
+- Transormacije slika:
+  - [Skaliranje i rotacije](/materijali/transformacije/skaliranje_rotacije.py) + [slika](/materijali/transformacije/avion.png)
+  - [Bacanje aviona (+flip)](/materijali/transformacije/bacanje_aviona.py) + [slika](/materijali/transformacije/avion_side.png)
 
 ### Grupni projekat - pong 🏓
 - [Šta je? (Wiki)](https://en.wikipedia.org/wiki/Pong)
