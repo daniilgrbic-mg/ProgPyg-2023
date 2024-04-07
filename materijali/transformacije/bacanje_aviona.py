@@ -2,9 +2,13 @@ import pygame as pg
 from pygame import Color, Vector2
 import pygamebg
 
+import os
+putanja_foldera = os.path.dirname(__file__)
+putanja_aviona = putanja_foldera + '/avion_side.png'
+
 prozor = pygamebg.open_window(1600, 900, "Transformacije")
 
-avion = pg.image.load('avion_side.png')
+avion = pg.image.load(putanja_aviona)
 avion = pg.transform.flip(avion, flip_x=True, flip_y=False)
 avion = pg.transform.scale_by(avion, 0.4)
 
