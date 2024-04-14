@@ -14,7 +14,8 @@ Termini nastave u drugom semestru:
 ## Materijali
 
 ### Projekat - Fallpy eagle 🦅
-- Presek stanja 31. mart - [kod](/materijali/pravi_projekti/flappy.py)
+- [Finalni kod](/materijali/pravi_projekti/flappy.py)
+- Slike: [pozadina](/materijali/pravi_projekti/mountains.png) i [orao](/materijali/pravi_projekti/eagle.png)
 - Transormacije slika:
   - [Skaliranje i rotacije](/materijali/transformacije/skaliranje_rotacije.py) + [slika](/materijali/transformacije/avion.png)
   - [Bacanje aviona (+flip)](/materijali/transformacije/bacanje_aviona.py) + [slika](/materijali/transformacije/avion_side.png)
